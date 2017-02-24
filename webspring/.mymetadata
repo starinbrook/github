@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="webspring"
+  id="myeclipse.1487728683829"
+  context-root="/webspring"
+  j2ee-spec="6.0"
+  archive="webspring.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
