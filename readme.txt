@@ -1,2 +1,3 @@
-å­¦ä¹ åœ¨webé¡¹ç›®ä¸­é…ç½®å’Œä½¿ç”¨springï¼›
-jsp + jquery + ajax + servlet + serviceã€‚
+Ñ§Ï°ÔÚwebÏîÄ¿ÖĞÅäÖÃºÍÊ¹ÓÃspring;
+jsp+ajax+servlet+service;
+test branch;
