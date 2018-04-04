@@ -8,7 +8,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html>
   <head>
    
-    <title>My JSP 'index.jsp' starting page, edit by myeclipse</title>
+    <title>My JSP 'index.jsp' starting page, edit by myeclipse, edit by github</title>
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="0">    
